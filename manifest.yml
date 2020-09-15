@@ -1,0 +1,7 @@
+applications:
+- name: alwaslbeirutuos
+memory: 256M
+host: alwaslbeirutuos
+instances: 1
+disk_quota: 512M
+buildpack: sdk-for-nodejs
