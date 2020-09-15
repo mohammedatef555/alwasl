@@ -1,7 +1,7 @@
 applications:
     - name: alwaslbeirutuosss
       path: .
-      memory: 128M
+      memory: 100M
       instances: 1
-      disk_quota: 512M
+      disk_quota: 256M
       buildpack: staticfile_buildpack
