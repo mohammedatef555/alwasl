@@ -1,7 +1,7 @@
 applications:
-- name: alwaslbeirutuos
+- name: alwaslbeirutuosss
 memory: 256M
-host: alwaslbeirutuos
+host: alwaslbeirutuosss
 instances: 1
 disk_quota: 512M
 buildpack: sdk-for-nodejs
